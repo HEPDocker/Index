@@ -1,5 +1,5 @@
 # Index
-An (incomplete) index of currently available HEP Docker containers
+An (incomplete) index of currently available HEP Docker containers. If you would like to add your project, please fork this repository, edit the README and submit a pull request.
 
 - CVMFS & Software: [hepsw/docks](https://github.com/hepsw/docks)
 - Globus & Perfsonar: [esnet/docker](https://github.com/esnet/docker)
