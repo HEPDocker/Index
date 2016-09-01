@@ -5,6 +5,7 @@ An (incomplete) index of currently available HEP Docker containers. If you would
 - Globus & Perfsonar: [esnet/docker](https://github.com/esnet/docker)
 - Various CMS containers: [cms-sw/cms-docker](cms-sw/cms-docker)
 - DPM: https://hub.docker.com/r/amanzi
+- FTS server: [fts/docker-files (CERN)](https://gitlab.cern.ch/fts/docker-files/tree/master/fts-server)
 - OSG client: [soichih/docker-osg](https://github.com/soichih/docker-osg)
 - OSG worker node: [unlhcc/docker-osg-wn-el6](https://github.com/unlhcc/docker-osg-wn-el6)
 
