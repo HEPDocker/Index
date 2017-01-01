@@ -1,13 +1,17 @@
 # Index
 An (incomplete) index of currently available HEP Docker containers. If you would like to add your project, please fork this repository, edit the README and submit a pull request.
 
+## Middleware & services
 - CVMFS & Software: [hepsw/docks](https://github.com/hepsw/docks)
 - Globus & Perfsonar: [esnet/docker](https://github.com/esnet/docker)
-- Various CMS containers: [cms-sw/cms-docker](cms-sw/cms-docker)
+- Various Compact Muon Solenoid (CMS) containers: [cms-sw/cms-docker](cms-sw/cms-docker)
 - DPM: https://hub.docker.com/r/amanzi
 - FTS server: [fts/docker-files (CERN)](https://gitlab.cern.ch/fts/docker-files/tree/master/fts-server)
 - OSG client: [soichih/docker-osg](https://github.com/soichih/docker-osg)
 - OSG worker node: [unlhcc/docker-osg-wn-el6](https://github.com/unlhcc/docker-osg-wn-el6)
+
+## Data analysis & simulation
+- [ROOT, Herwig, Pythia, Sherpa & more](https://github.com/lukasheinrich/hepsw-docker)
 
 # HEP Talks & blog posts
  - Hiding all the details: Grid jobs in docker: [blog](https://djw8605.github.io/2016/05/18/hiding-all-the-details-grid-jobs-in-docker/), [presentation](https://research.cs.wisc.edu/htcondor/HTCondorWeek2016/presentations/WedWeitzel_DockerGridJobs.pdf)
